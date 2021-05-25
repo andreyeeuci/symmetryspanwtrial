@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Andre - Productivity\AppData\Local\PsychoPy3\lib\site-packages\psychopy\app\runner\scriptProcess.py", line 118, in whileRunningFile
+    returnVal = self.scriptProcess.poll()
+AttributeError: 'NoneType' object has no attribute 'poll'
